@@ -1,0 +1,7 @@
+#api call for hello word
+###
+GET http://127.0.0.1:8000/helloworld/
+
+#api call for good morning
+###
+GET http://127.0.0.1:8000/goodmorning/
